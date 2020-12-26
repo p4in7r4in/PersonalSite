@@ -1,0 +1,132 @@
+/*theme https://colorhunt.co/palette/220248 */
+body {
+  background-color: #e8e8e8;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  text-align: center;
+  margin: 0;
+}
+
+p {
+  font-weight: 400;
+  line-height: 2;
+}
+
+hr {
+  border-width: 5px;
+  width: 3%;
+  margin: 0 auto 0 auto;
+  border-color: #f05454;
+  border-style: dotted none none none;
+}
+
+.button {
+  background-color: #f05454;
+  border-radius: 5%;
+  border-color: #f05454;
+  border-style: solid;
+  color: #e8e8e8;
+  font-weight: 600;
+  height: 30px;
+  margin: 0 0 25px 0;
+  width: 120px;
+}
+
+.button:hover {
+  background-color: #e8e8e8;
+  border-radius: 5%;
+  border-color: #f05454;
+  border-style: solid;
+  color: #f05454;
+  cursor: pointer;
+  font-weight: 600;
+  height: 30px;
+  margin: 0 0 25px 0;
+  width: 120px;
+}
+
+h1 {
+  color: #f05454;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  display: inline-block;
+}
+
+h2 {
+  color: #f05454;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #f05454;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.top {
+  background-color: #30475e;
+  color: #e8e8e8;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 0;
+}
+
+.mid {
+  background-color: #e8e8e8;
+  color: #222831;
+  margin: 0;
+}
+
+.topCloud {
+  position: absolute;
+  right: 200px;
+  top: 40px;
+}
+
+.lowerCloud {
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+}
+
+.avatar {
+  background-color: #f05454;
+  border-radius: 50%;
+  width: 125px;
+  height: 125px;
+  margin: 5px
+}
+
+.skillpic {
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skillpic2 {
+  width: 110px;
+  height: 90px;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.profile {
+  margin: 0 auto 100px auto;
+  width: 50%;
+}
+
+.foot {
+  background-color: #30475e;
+  color: #e8e8e8;
+  padding: 25px 0 10px;
+}
